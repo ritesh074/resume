@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Ritesh Sanghavi </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/riteshsanghavi/">LinkedIn</a> |
+  <a href="https://github.com/ritesh074">GitHub</a>
+  
+  <br>   
+  I'm starting as a Data Engineer. I am open to ideas and excited to see how this path unfolds.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
+
